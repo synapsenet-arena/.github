@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# SynapseNet Internal GitHub Organization
+
+![synapsenet.co](https://synapsenet.co/)
+
+SynapseNet Arena is the GitHub organization part of ![synapsenet.co](https://synapsenet.co/](https://github.com/synapsenet-arena/.github/edit/main/profile/SynapseNetBanner.png) to store SynapseNet repositories.
+
 <!--
 
 **Here are some ideas to get you started:**
