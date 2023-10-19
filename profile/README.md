@@ -2,9 +2,9 @@
 
 # SynapseNet Internal GitHub Organization
 
-![synapsenet.co](https://synapsenet.co/)
+![synapsenet.co](https://github.com/synapsenet-arena/.github/blob/main/profile/SynapseNetBanner.png)
 
-SynapseNet Arena is the GitHub organization part of ![synapsenet.co](https://synapsenet.co/](https://github.com/synapsenet-arena/.github/edit/main/profile/SynapseNetBanner.png) to store SynapseNet repositories.
+SynapseNet Arena is the GitHub organization part of [synapsenet.co](https://synapsenet.co) to store SynapseNet repositories.
 
 <!--
 
